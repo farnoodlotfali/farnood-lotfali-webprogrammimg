@@ -15,13 +15,18 @@
 </head>
 
 <body>
-  <div class="root">
+  <div class="root bg_black" id='rootBody'>
     <header class="header">
       <div class="search">
         <h4>جست و جو</h4>
         <input type="text" placeholder="جست و جو....">
       </div>
       <h1 class="title">شهر کاشان</h1>
+      <div class="changeBackground">
+        <button type="button" onclick="document.getElementById('rootBody').classList.contains('bg_black') ? document.getElementById('rootBody').classList.remove('bg_black') : document.getElementById('rootBody').classList.add('bg_black')  ">
+          change Background
+        </button>
+      </div>
    
     </header>
 

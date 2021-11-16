@@ -6,7 +6,10 @@ body {
 .root {
   direction: rtl;
 }
-
+.bg_black {
+  color: whitesmoke;
+  background-color: rgb(32, 32, 32);
+}
 .header {
   display: flex;
   justify-content: space-evenly;
@@ -17,7 +20,6 @@ body {
   width: 100%;
 }
 .about {
-  color: rgb(45, 55, 110);
   line-height: 1.75rem;
   font-weight: 700;
   display: flex;
@@ -135,4 +137,16 @@ footer {
 }
 .icons i {
   color: rgb(252, 252, 252);
+}
+
+.changeBackground {
+  align-self: center;
+}
+.changeBackground button {
+  background: greenyellow;
+  padding: 10px;
+  cursor: pointer;
+  margin-left: 20px;
+  white-space: nowrap;
+  border-radius: 10px;
 }
