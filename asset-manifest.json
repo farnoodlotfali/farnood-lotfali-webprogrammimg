@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/farnood-lotfali-webprogrammimg/static/css/main.131c1f04.chunk.css",
+    "main.js": "/farnood-lotfali-webprogrammimg/static/js/main.0a1ee492.chunk.js",
+    "main.js.map": "/farnood-lotfali-webprogrammimg/static/js/main.0a1ee492.chunk.js.map",
+    "runtime-main.js": "/farnood-lotfali-webprogrammimg/static/js/runtime-main.c8907855.js",
+    "runtime-main.js.map": "/farnood-lotfali-webprogrammimg/static/js/runtime-main.c8907855.js.map",
+    "static/js/2.94a5d56a.chunk.js": "/farnood-lotfali-webprogrammimg/static/js/2.94a5d56a.chunk.js",
+    "static/js/2.94a5d56a.chunk.js.map": "/farnood-lotfali-webprogrammimg/static/js/2.94a5d56a.chunk.js.map",
+    "static/js/3.cc6e22c9.chunk.js": "/farnood-lotfali-webprogrammimg/static/js/3.cc6e22c9.chunk.js",
+    "static/js/3.cc6e22c9.chunk.js.map": "/farnood-lotfali-webprogrammimg/static/js/3.cc6e22c9.chunk.js.map",
+    "index.html": "/farnood-lotfali-webprogrammimg/index.html",
+    "static/css/main.131c1f04.chunk.css.map": "/farnood-lotfali-webprogrammimg/static/css/main.131c1f04.chunk.css.map",
+    "static/js/2.94a5d56a.chunk.js.LICENSE.txt": "/farnood-lotfali-webprogrammimg/static/js/2.94a5d56a.chunk.js.LICENSE.txt",
+    "static/media/sample-video.b67d6c20.mp4": "/farnood-lotfali-webprogrammimg/static/media/sample-video.b67d6c20.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8907855.js",
+    "static/js/2.94a5d56a.chunk.js",
+    "static/css/main.131c1f04.chunk.css",
+    "static/js/main.0a1ee492.chunk.js"
+  ]
+}
