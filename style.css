@@ -1,0 +1,15 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.table {
+  width: 100%;
+  background-color: red;
+  text-align: center;
+}
+
+td {
+  background-color: lightgreen;
+}
